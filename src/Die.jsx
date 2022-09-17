@@ -3,7 +3,7 @@ import React from 'react';
 
 const Die = (props) => {
     const styles = {
-        backgroundColor: props.color ? "#0B2434" : "white",
+        backgroundColor: props.color ? "#67B7D1" : "white",
         color: props.color ? "#ffffff" : "#000000"
     }
     return (
