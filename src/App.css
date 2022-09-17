@@ -116,6 +116,12 @@ h2{
   background-color:#ffffff;
 }
 
+@media  screen and (min-width:568px) {
+  .die{
+    width: 50px;
+  }
+}
+
 
 .first-face{
   display: flex;
