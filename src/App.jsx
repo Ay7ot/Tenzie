@@ -81,7 +81,7 @@ function App() {
         <div className='die-container'>
           {diceElements}
         </div>
-        <button onClick={rollDice}>{tenzies ? "New Game" : "Roll"}</button>
+        <button className='RollButton' onClick={rollDice}>{tenzies ? "New Game" : "Roll"}</button>
         {tenzies && <p className='scores'>No. of Rolls :<span> {rolls}</span></p>}
         {tenzies && <p className='scores'>Time : <span> {time}s</span></p>}
         {tenzies && <p className='scores'>Best Time : <span> {bestTimes}s</span></p>}
