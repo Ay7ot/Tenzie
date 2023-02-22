@@ -1,5 +1,5 @@
 <h1>Tenzie Game</h1>
-Tenzie Game is a browser-based game that allows players to roll dice and score points. The game is built with React and was created after completing the React Crash Course from Scrimba.
+Tenzie Game is a browser-based game that allows players to roll dice and score points. The game is built with React and was created after completing the React Crash Course from Scrimba. Code is in master branch
 <h2>Features</h2>
 <ul>
 <li>Allows players to roll up to ten dice at a time</li>
