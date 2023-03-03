@@ -68,7 +68,7 @@ function App() {
   })
 
   const styles={
-    height: tenzies ? "70vh" : "60vh"
+    height: tenzies ? "80vh" : "70vh"
   }
 
   

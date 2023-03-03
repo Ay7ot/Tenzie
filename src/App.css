@@ -33,6 +33,7 @@ main{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   gap: 25px;
+  margin-top: 5%;
 }
 
 .die{
@@ -91,6 +92,7 @@ button:hover, button:active, button:focus{
 .scores{
   font-weight: 700;
   font-size: 1.1rem;
+  margin-top: 2%;
 }
 
 span{
